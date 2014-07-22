@@ -2,7 +2,7 @@
 Summary:	Write more readable tests in Test::Unit with this tiny script
 Name:		ruby-%{pkgname}
 Version:	0.1.3
-Release:	1
+Release:	2
 License:	Distributable
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
